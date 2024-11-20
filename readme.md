@@ -6,4 +6,4 @@ Una app per fomentar les activitats a l'exterior.
 
 - React Native
 - Expo
-- Typescript
+- Typescriptn
